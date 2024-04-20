@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Ak and I'm a Information Technology Student based in Ranchi(eastern part of India).
 
+My main focus is on developing & solving using C++, databases ( MySQL, noSQL) but I'm also familiar with Python and frontend technologies (React, javascript in general). On the devops side I have experience with the services offered by AWS.
 <!--
 **GITAK007/GITAK007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
